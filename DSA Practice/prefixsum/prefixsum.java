@@ -7,3 +7,5 @@
 // https://leetcode.com/problems/minimum-average-difference/description/?envType=problem-list-v2&envId=prefix-sum
 
 // https://leetcode.com/problems/ways-to-make-a-fair-array/description/?envType=problem-list-v2&envId=prefix-sum
+
+// https://leetcode.com/problems/grid-game/description/?envType=problem-list-v2&envId=prefix-sum`
