@@ -21,3 +21,13 @@ https://leetcode.com/problems/sudoku-solver/description/?envType=problem-list-v2
 https://leetcode.com/problems/generate-parentheses/description/?envType=problem-list-v2&envId=backtracking
 
 https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=problem-list-v2&envId=backtracking
+
+https://leetcode.com/problems/combinations/description/?envType=problem-list-v2&envId=backtracking
+
+https://leetcode.com/problems/combination-sum-iii/description/?envType=problem-list-v2&envId=backtracking
+
+https://leetcode.com/problems/letter-case-permutation/description/?envType=problem-list-v2&envId=backtracking
+
+https://leetcode.com/problems/expression-add-operators/description/?envType=problem-list-v2&envId=backtracking
+
+https://leetcode.com/problems/24-game/description/?envType=problem-list-v2&envId=backtracking
