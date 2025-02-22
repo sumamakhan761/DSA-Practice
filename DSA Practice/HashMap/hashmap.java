@@ -1,1 +1,19 @@
+https://leetcode.com/problems/intersection-of-two-arrays/description/?envType=problem-list-v2&envId=hash-table
 
+https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/next-greater-element-i/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/roman-to-integer/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/kth-distinct-string-in-an-array/description/?envType=problem-list-v2&envId=hash-table
