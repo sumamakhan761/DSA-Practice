@@ -4,9 +4,13 @@ https://leetcode.com/problems/remove-duplicates-from-sorted-array/
 
 https://leetcode.com/problems/move-zeroes/description/
 
+https://leetcode.com/problems/merge-sorted-array/description/
+
 https://leetcode.com/problems/max-consecutive-ones/description/
 
 https://leetcode.com/problems/maximum-subarray/
+
+https://leetcode.com/problems/maximum-product-subarray/
 
 https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
 
