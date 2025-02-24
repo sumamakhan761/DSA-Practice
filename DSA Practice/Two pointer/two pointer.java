@@ -16,6 +16,8 @@ https://leetcode.com/problems/maximum-matching-of-players-with-trainers/descript
 
 https://leetcode.com/problems/sort-colors/description/
 
+https://leetcode.com/problems/search-a-2d-matrix/description/?envType=problem-list-v2&envId=binary-search
+
 https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/?envType=problem-list-v2&envId=two-pointers
 
 https://leetcode.com/problems/last-substring-in-lexicographical-order/description/?envType=problem-list-v2&envId=two-pointers
