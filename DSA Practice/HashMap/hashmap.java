@@ -12,6 +12,12 @@ https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2
 
 https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/description/?envType=problem-list-v2&envId=hash-table
 
+https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/kth-distinct-string-in-an-array/description/?envType=problem-list-v2&envId=hash-table
+
 https://leetcode.com/problems/group-anagrams/description/
 
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/
