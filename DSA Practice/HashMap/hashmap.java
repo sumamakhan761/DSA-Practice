@@ -57,3 +57,7 @@ https://leetcode.com/problems/substring-with-concatenation-of-all-words/descript
 https://leetcode.com/problems/minimum-window-substring/description/?envType=problem-list-v2&envId=hash-table
 
 https://leetcode.com/problems/max-points-on-a-line/submissions/1554782520/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/first-missing-positive/description/?envType=problem-list-v2&envId=hash-table
+
+
