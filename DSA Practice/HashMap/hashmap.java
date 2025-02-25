@@ -49,3 +49,11 @@ https://leetcode.com/problems/unique-length-3-palindromic-subsequences/descripti
 https://leetcode.com/problems/optimal-partition-of-string/description/?envType=problem-list-v2&envId=hash-table
 
 https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/word-ladder/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/?envType=problem-list-v2&envId=hash-table
+
+https://leetcode.com/problems/minimum-window-substring/description/?envType=problem-list-v2&envId=hash-table
+
+
