@@ -17,4 +17,26 @@
 - [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/description/)
   
 </ul>
+
+</details>
+<details open>
+  <summary><h2>👈🏻 Two Pointer</h2></summary>
+<ul>
+
+- [Two Sum](https://leetcode.com/problems/two-sum/description/)
+- [Apply Operations to an Array](https://leetcode.com/problems/apply-operations-to-an-array/description/)
+- [Largest Positive Integer That Exists With Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/)
+- [Bag of Tokens](https://leetcode.com/problems/bag-of-tokens/description/)
+- [Rotate Array](https://leetcode.com/problems/rotate-array/description/)
+- [Circular Array Loop](https://leetcode.com/problems/circular-array-loop/description/)
+- [Minimize Maximum Pair Sum in Array](https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/)
+- [Maximum Matching of Players With Trainers](https://leetcode.com/problems/maximum-matching-of-players-with-trainers/description/)
+- [Sort Colors](https://leetcode.com/problems/sort-colors/description/)
+- [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
+- [Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)
+- [Last Substring in Lexicographical Order](https://leetcode.com/problems/last-substring-in-lexicographical-order/description/)
+- [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
+- [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
+  
+</ul>
 </details>
