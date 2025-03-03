@@ -50,7 +50,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </details>
 
 <details open>
-  <summary><h2>👈🏻 Sliding Window</h2></summary>
+  <summary><h2>👈🏻 Sliding window</h2></summary>
 <ul>  
 
 - [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)  
@@ -64,6 +64,20 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/)  
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)  
 - [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)  
+
+</ul>
+</details>
+
+<details open>
+  <summary><h2>👈🏻 Prefix sum</h2></summary>
+<ul>  
+
+- [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/description/)  
+- [Shift Distance Between Two Strings](https://leetcode.com/problems/shift-distance-between-two-strings/description/)  
+- [Number of Ways to Split Array](https://leetcode.com/problems/number-of-ways-to-split-array/description/)  
+- [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/description/)  
+- [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/description/)  
+- [Grid Game](https://leetcode.com/problems/grid-game/description/)  
 
 </ul>
 </details>
