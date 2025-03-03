@@ -1,5 +1,13 @@
 ## Solve 300+ LeetCode questions to gain full hands-on experience in every DSA topic
 
+This list contains problems of varying difficulty levels, ranging from beginner to advanced. If you're just starting, I recommend solving the easier problems first before moving on to the harder ones.  
+
+📌 **How to use this list?**  
+- Problems are linked directly to LeetCode. Click on a problem to access it.  
+- Try solving problems in increasing difficulty order.  
+ 
+## Problem List
+
 <details open>
   <summary><h2>👈🏻 Array & Matrix</h2></summary>
 <ul>
@@ -38,5 +46,24 @@
 - [Rearrange Array Elements by Sign](https://leetcode.com/problems/rearrange-array-elements-by-sign/description/)
 - [Next Permutation](https://leetcode.com/problems/next-permutation/description/)
   
+</ul>
+</details>
+
+<details open>
+  <summary><h2>👈🏻 Sliding Window</h2></summary>
+<ul>  
+
+- [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)  
+- [Longest Even Odd Subarray with Threshold](https://leetcode.com/problems/longest-even-odd-subarray-with-threshold/description/)  
+- [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/description/)  
+- [Replace the Substring for Balanced String](https://leetcode.com/problems/replace-the-substring-for-balanced-string/description/)  
+- [Count Number of Nice Subarrays](https://leetcode.com/problems/count-number-of-nice-subarrays/discuss/419378/JavaC%2B%2BPython-Sliding-Window-atMost(K)-atMost(K-1))  
+- [Binary Subarrays with Sum](https://leetcode.com/problems/binary-subarrays-with-sum/solutions/186683/c-java-python-sliding-window-o-1-space/)  
+- [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/discuss/247564/javacpython-sliding-window/379427?page=3)  
+- [K-Radius Subarray Averages](https://leetcode.com/problems/k-radius-subarray-averages/solutions/)  
+- [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/)  
+- [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)  
+- [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)  
+
 </ul>
 </details>
