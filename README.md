@@ -9,7 +9,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 ## Problem List
 
 <details open>
-  <summary><h2>👈🏻 Array & Matrix</h2></summary>
+  <summary><h2>Array & Matrix</h2></summary>
 <ul>
 
 - [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
@@ -28,7 +28,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 
 </details>
 <details open>
-  <summary><h2>👈🏻 Two Pointer</h2></summary>
+  <summary><h2>Two Pointer</h2></summary>
 <ul>
 
 - [Two Sum](https://leetcode.com/problems/two-sum/description/)
@@ -50,7 +50,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </details>
 
 <details open>
-  <summary><h2>👈🏻 Sliding window</h2></summary>
+  <summary><h2>Sliding window</h2></summary>
 <ul>  
 
 - [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)  
@@ -69,7 +69,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </details>
 
 <details open>
-  <summary><h2>👈🏻 Prefix sum</h2></summary>
+  <summary><h2>Prefix sum</h2></summary>
 <ul>  
 
 - [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/description/)  
@@ -78,6 +78,20 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Minimum Average Difference](https://leetcode.com/problems/minimum-average-difference/description/)  
 - [Ways to Make a Fair Array](https://leetcode.com/problems/ways-to-make-a-fair-array/description/)  
 - [Grid Game](https://leetcode.com/problems/grid-game/description/)  
+
+</ul>
+</details>
+
+<details open>
+  <summary><h2>Bit Manipulation</h2></summary>
+ 
+<ul>  
+- [Single Number](https://leetcode.com/problems/single-number/description/)
+- [Missing Number](https://leetcode.com/problems/missing-number/description/)
+- [Count Paths With the Given XOR Value](https://leetcode.com/problems/count-paths-with-the-given-xor-value/description/)
+- [Binary Gap](https://leetcode.com/problems/binary-gap/?envType=problem-list-v2&envId=bit-manipulation)
+<!-- - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/?envType=problem-list-v2&envId=bit-manipulation) -->
+<!-- - [Single Number II](https://leetcode.com/problems/single-number-ii/description/?envType=problem-list-v2&envId=bit-manipulation) -->
 
 </ul>
 </details>
