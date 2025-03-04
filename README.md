@@ -98,9 +98,10 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </details>
 <details open>
   <summary><h2>Recursion</h2></summary>
- 
+
 <ul>  
-<!-- - [Pow(x, n)](https://leetcode.com/problems/powx-n/description/?envType=problem-list-v2&envId=recursion) -->
+ 
+- [Pow(x, n)](https://leetcode.com/problems/powx-n/description/?envType=problem-list-v2&envId=recursion)
 - [Power of Two](https://leetcode.com/problems/power-of-two/description/?envType=problem-list-v2&envId=recursion)
 - [Power of Three](https://leetcode.com/problems/power-of-three/description/?envType=problem-list-v2&envId=recursion)
 - [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/?envType=problem-list-v2&envId=recursion)
