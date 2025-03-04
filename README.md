@@ -86,12 +86,27 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   <summary><h2>Bit Manipulation</h2></summary>
  
 <ul>  
+ 
 - [Single Number](https://leetcode.com/problems/single-number/description/)
 - [Missing Number](https://leetcode.com/problems/missing-number/description/)
 - [Count Paths With the Given XOR Value](https://leetcode.com/problems/count-paths-with-the-given-xor-value/description/)
 - [Binary Gap](https://leetcode.com/problems/binary-gap/?envType=problem-list-v2&envId=bit-manipulation)
 - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/?envType=problem-list-v2&envId=bit-manipulation)
 - [Single Number II](https://leetcode.com/problems/single-number-ii/description/?envType=problem-list-v2&envId=bit-manipulation)
+
+</ul>
+</details>
+<details open>
+  <summary><h2>Recursion</h2></summary>
+ 
+<ul>  
+<!-- - [Pow(x, n)](https://leetcode.com/problems/powx-n/description/?envType=problem-list-v2&envId=recursion) -->
+- [Power of Two](https://leetcode.com/problems/power-of-two/description/?envType=problem-list-v2&envId=recursion)
+- [Power of Three](https://leetcode.com/problems/power-of-three/description/?envType=problem-list-v2&envId=recursion)
+- [Count Good Numbers](https://leetcode.com/problems/count-good-numbers/description/?envType=problem-list-v2&envId=recursion)
+- [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/?envType=problem-list-v2&envId=recursion)
+- [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/?envType=problem-list-v2&envId=recursion)
+- [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/?envType=problem-list-v2&envId=recursion)
 
 </ul>
 </details>
