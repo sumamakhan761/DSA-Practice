@@ -90,8 +90,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Missing Number](https://leetcode.com/problems/missing-number/description/)
 - [Count Paths With the Given XOR Value](https://leetcode.com/problems/count-paths-with-the-given-xor-value/description/)
 - [Binary Gap](https://leetcode.com/problems/binary-gap/?envType=problem-list-v2&envId=bit-manipulation)
-<!-- - [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/?envType=problem-list-v2&envId=bit-manipulation) -->
-<!-- - [Single Number II](https://leetcode.com/problems/single-number-ii/description/?envType=problem-list-v2&envId=bit-manipulation) -->
+- [Divide Two Integers](https://leetcode.com/problems/divide-two-integers/description/?envType=problem-list-v2&envId=bit-manipulation)
+- [Single Number II](https://leetcode.com/problems/single-number-ii/description/?envType=problem-list-v2&envId=bit-manipulation)
 
 </ul>
 </details>
