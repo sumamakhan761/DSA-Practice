@@ -91,4 +91,6 @@ https://leetcode.com/problems/find-duplicate-subtrees/description/?envType=probl
 
 https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=problem-list-v2&envId=binary-tree
 
+https://leetcode.com/problems/path-sum
 
+https://leetcode.com/problems/path-sum-ii/description/?envType=problem-list-v2&envId=binary-tree
