@@ -97,6 +97,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </ul>
 </details>
 <details open>
+ 
   <summary><h2>Recursion</h2></summary>
 
 <ul>  
@@ -108,6 +109,20 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Permutation Sequence](https://leetcode.com/problems/permutation-sequence/description/?envType=problem-list-v2&envId=recursion)
 - [Integer to English Words](https://leetcode.com/problems/integer-to-english-words/description/?envType=problem-list-v2&envId=recursion)
 - [Find Kth Bit in Nth Binary String](https://leetcode.com/problems/find-kth-bit-in-nth-binary-string/description/?envType=problem-list-v2&envId=recursion)
+
+</ul>
+</details>
+
+<details open>
+  <summary><h2>divide and conquer</h2></summary>
+<ul>  
+
+- [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=divide-and-conquer)
+- [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/description/?envType=problem-list-v2&envId=divide-and-conquer)
+- [Majority Element](https://leetcode.com/problems/majority-element/description/?envType=problem-list-v2&envId=divide-and-conquer)
+- [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/?envType=problem-list-v2&envId=divide-and-conquer)
+- [Super Pow](https://leetcode.com/problems/super-pow/description/?envType=problem-list-v2&envId=divide-and-conquer)
+- [Beautiful Array](https://leetcode.com/problems/beautiful-array/description/?envType=problem-list-v2&envId=divide-and-conquer)
 
 </ul>
 </details>
