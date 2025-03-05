@@ -24,6 +24,8 @@ https://leetcode.com/problems/balanced-binary-tree/description/?envType=problem-
 
 https://leetcode.com/problems/count-complete-tree-nodes/description/?envType=problem-list-v2&envId=binary-tree
 
+https://leetcode.com/problems/convert-bst-to-greater-tree/?envType=problem-list-v2&envId=binary-tree
+
 https://leetcode.com/problems/invert-binary-tree/description/?envType=problem-list-v2&envId=binary-tree
 
 https://leetcode.com/problems/search-in-a-binary-search-tree/description/?envType=problem-list-v2&envId=binary-tree
