@@ -79,5 +79,14 @@ https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=p
 
 https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=problem-list-v2&envId=binary-tree
 
+https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/description/?envType=problem-list-v2&envId=binary-tree
+
+https://leetcode.com/problems/binary-tree-level-order-traversal-ii/description/?envType=problem-list-v2&envId=binary-tree
+
+https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree/description/
+
+https://leetcode.com/problems/find-duplicate-subtrees/description/?envType=problem-list-v2&envId=binary-tree
+
+https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=problem-list-v2&envId=binary-tree
 
 
