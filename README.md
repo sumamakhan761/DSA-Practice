@@ -147,7 +147,11 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Combinations](https://leetcode.com/problems/combinations/description/?envType=problem-list-v2&envId=backtracking)
 - [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/?envType=problem-list-v2&envId=backtracking)
 - [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/?envType=problem-list-v2&envId=backtracking)
-
+- [Expression Add Operators](https://leetcode.com/problems/expression-add-operators/description/?envType=problem-list-v2&envId=backtracking)
+- [24 Game](https://leetcode.com/problems/24-game/description/?envType=problem-list-v2&envId=backtracking)
+- [Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/description/?envType=problem-list-v2&envId=backtracking)
+- [The K-th Lexicographical String of All Happy Strings of Length N](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/?envType=problem-list-v2&envId=backtracking)
+- [Path with Maximum Gold](https://leetcode.com/problems/path-with-maximum-gold/description/?envType=problem-list-v2&envId=backtracking)
 
 </ul>
 </details>
