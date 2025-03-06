@@ -94,3 +94,7 @@ https://leetcode.com/problems/sum-root-to-leaf-numbers/description/?envType=prob
 https://leetcode.com/problems/path-sum
 
 https://leetcode.com/problems/path-sum-ii/description/?envType=problem-list-v2&envId=binary-tree
+
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/?envType=problem-list-v2&envId=binary-tree
+
+https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/?envType=problem-list-v2&envId=binary-tree
