@@ -174,7 +174,12 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/?envType=problem-list-v2&envId=linked-list)
 - [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=problem-list-v2&envId=linked-list)
 - [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/?envType=problem-list-v2&envId=linked-list)
-
+- [Spiral Matrix IV](https://leetcode.com/problems/spiral-matrix-iv/description/?envType=problem-list-v2&envId=linked-list)
+- [Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/description/?envType=problem-list-v2&envId=linked-list)
+- [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/?envType=problem-list-v2&envId=linked-list)
+- [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/?envType=problem-list-v2&envId=linked-list)
+- [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/?envType=problem-list-v2&envId=linked-list)
+- [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/?envType=problem-list-v2&envId=linked-list)
 
 </ul>
 </details>
