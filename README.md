@@ -114,7 +114,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </details>
 
 <details open>
-  <summary><h2>divide and conquer</h2></summary>
+  <summary><h2>Divide And Conquer</h2></summary>
 <ul>  
 
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=divide-and-conquer)
@@ -123,6 +123,31 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii/description/?envType=problem-list-v2&envId=divide-and-conquer)
 - [Super Pow](https://leetcode.com/problems/super-pow/description/?envType=problem-list-v2&envId=divide-and-conquer)
 - [Beautiful Array](https://leetcode.com/problems/beautiful-array/description/?envType=problem-list-v2&envId=divide-and-conquer)
+
+</ul>
+</details>
+
+<details open>
+  <summary><h2>Backtracking</h2></summary>
+<ul> 
+
+- [Combination Sum](https://leetcode.com/problems/combination-sum/description/?envType=problem-list-v2&envId=backtracking)
+- [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/description/?envType=problem-list-v2&envId=backtracking)
+- [Permutations](https://leetcode.com/problems/permutations/description/?envType=problem-list-v2&envId=backtracking)
+- [Permutations II](https://leetcode.com/problems/permutations-ii/description/?envType=problem-list-v2&envId=backtracking)
+- [Subsets](https://leetcode.com/problems/subsets/description/?envType=problem-list-v2&envId=backtracking)
+- [Subsets II](https://leetcode.com/problems/subsets-ii/description/?envType=problem-list-v2&envId=backtracking)
+- [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/)
+- [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/description/?envType=problem-list-v2&envId=backtracking)
+- [Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/description/?envType=problem-list-v2&envId=backtracking)
+- [Word Search](https://leetcode.com/problems/word-search/description/?envType=problem-list-v2&envId=backtracking)
+- [N-Queens](https://leetcode.com/problems/n-queens/description/?envType=problem-list-v2&envId=backtracking)
+- [N-Queens II](https://leetcode.com/problems/n-queens-ii/description/?envType=problem-list-v2&envId=backtracking)
+- [Sudoku Solver](https://leetcode.com/problems/sudoku-solver/description/?envType=problem-list-v2&envId=backtracking)
+- [Combinations](https://leetcode.com/problems/combinations/description/?envType=problem-list-v2&envId=backtracking)
+- [Combination Sum III](https://leetcode.com/problems/combination-sum-iii/description/?envType=problem-list-v2&envId=backtracking)
+- [Letter Case Permutation](https://leetcode.com/problems/letter-case-permutation/description/?envType=problem-list-v2&envId=backtracking)
+
 
 </ul>
 </details>
