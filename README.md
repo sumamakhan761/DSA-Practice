@@ -155,3 +155,26 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 
 </ul>
 </details>
+
+<details open>
+  <summary><h2>Linked List</h2></summary>
+<ul>  
+
+- [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=linked-list)
+- [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/description/?envType=problem-list-v2&envId=linked-list)
+- [Delete Node in a Linked List](https://leetcode.com/problems/delete-node-in-a-linked-list/description/?envType=problem-list-v2&envId=linked-list)
+- [Swapping Nodes in a Linked List](https://leetcode.com/problems/swapping-nodes-in-a-linked-list/description/?envType=problem-list-v2&envId=linked-list)
+- [Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/description/?envType=problem-list-v2&envId=linked-list)
+- [Rotate List](https://leetcode.com/problems/rotate-list/description/?envType=problem-list-v2&envId=linked-list)
+- [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/description/?envType=problem-list-v2&envId=linked-list)
+- [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/description/?envType=problem-list-v2&envId=linked-list)
+- [Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/?envType=problem-list-v2&envId=linked-list)
+- [LRU Cache](https://leetcode.com/problems/lru-cache/description/?envType=problem-list-v2&envId=linked-list)
+- [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/description/?envType=problem-list-v2&envId=linked-list)
+- [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/description/?envType=problem-list-v2&envId=linked-list)
+- [Convert Binary Number in a Linked List to Integer](https://leetcode.com/problems/convert-binary-number-in-a-linked-list-to-integer/description/?envType=problem-list-v2&envId=linked-list)
+
+
+</ul>
+</details>
