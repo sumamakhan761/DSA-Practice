@@ -1,4 +1,4 @@
-## Solve 300+ LeetCode questions to gain full hands-on experience in every DSA topic
+## Solve 300+ LeetCode questions to get hands-on experience in each DSA topics
 
 This list contains problems of varying difficulty levels, ranging from beginner to advanced. If you're just starting, I recommend solving the easier problems first before moving on to the harder ones.  
 
