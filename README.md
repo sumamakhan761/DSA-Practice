@@ -229,6 +229,14 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 <details open>
   <summary><h2> HashMap </h2></summary>
 <ul>  
-
+ 
+- [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/description/?envType=problem-list-v2&envId=hash-table)
+- [Largest Positive Integer That Exists with Its Negative](https://leetcode.com/problems/largest-positive-integer-that-exists-with-its-negative/description/?envType=problem-list-v2&envId=hash-table)
+- [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/?envType=problem-list-v2&envId=hash-table)
+- [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/?envType=problem-list-v2&envId=hash-table)
+- [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=problem-list-v2&envId=hash-table)
+- [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=hash-table)
+- [Most Frequent Number Following Key in an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/description/?envType=problem-list-v2&envId=hash-table)
+- 
 </ul>
 </details>
