@@ -203,3 +203,25 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 
 </ul>
 </details>
+
+<details open>
+  <summary><h2> Stack </h2></summary>
+<ul>  
+ 
+- [Min Stack](https://leetcode.com/problems/min-stack/description/?envType=problem-list-v2&envId=re1f6rj1)
+- [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/?envType=problem-list-v2&envId=re1f6rj1)
+- [Simplify Path](https://leetcode.com/problems/simplify-path/description/?envType=problem-list-v2&envId=re1f6rj1)
+- [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/?envType=problem-list-v2&envId=re1f6rj1)
+- [Online Stock Span](https://leetcode.com/problems/online-stock-span/description/?envType=problem-list-v2&envId=re1f6rj1)
+- [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/description/?envType=problem-list-v2&envId=re1f6rj1)
+- [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/description/?envType=problem-list-v2&envId=re1f6rj1)
+- [Remove All Adjacent Duplicates in String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/)
+- [Remove All Adjacent Duplicates in String II](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string-ii/description/?envType=problem-list-v2&envId=re1f6rj1)
+- [Removing Stars from a String](https://leetcode.com/problems/removing-stars-from-a-string/description/?envType=problem-list-v2&envId=re1f6rj1)
+- [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/?envType=problem-list-v2&envId=re1f6rj1)
+- [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/?envType=problem-list-v2&envId=re1f6rj1)
+- [Remove K Digits](https://leetcode.com/problems/remove-k-digits/description/)
+- [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/description/)
+
+</ul>
+</details>
