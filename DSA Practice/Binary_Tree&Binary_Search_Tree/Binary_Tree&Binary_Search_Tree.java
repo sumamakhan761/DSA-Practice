@@ -98,3 +98,9 @@ https://leetcode.com/problems/path-sum-ii/description/?envType=problem-list-v2&e
 https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/description/?envType=problem-list-v2&envId=binary-tree
 
 https://leetcode.com/problems/find-largest-value-in-each-tree-row/description/?envType=problem-list-v2&envId=binary-tree
+
+https://leetcode.com/problems/longest-univalue-path/description/?envType=problem-list-v2&envId=binary-tree
+
+https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/?envType=problem-list-v2&envId=binary-tree
+
+https://leetcode.com/problems/path-sum-iii/description/
