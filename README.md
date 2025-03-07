@@ -225,3 +225,10 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 
 </ul>
 </details>
+
+<details open>
+  <summary><h2> HashMap </h2></summary>
+<ul>  
+
+</ul>
+</details>
