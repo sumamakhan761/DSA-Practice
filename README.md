@@ -9,7 +9,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 ## Problem List
 
 <details open>
-  <summary><h2>Array & Matrix</h2></summary>
+  <summary><h2> Array & Matrix </h2></summary>
 <ul>
 
 - [Check if Array Is Sorted and Rotated](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/)
@@ -28,7 +28,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 
 </details>
 <details open>
-  <summary><h2>Two Pointer</h2></summary>
+  <summary><h2> Two Pointer </h2></summary>
 <ul>
 
 - [Two Sum](https://leetcode.com/problems/two-sum/description/)
@@ -50,7 +50,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </details>
 
 <details open>
-  <summary><h2>Sliding window</h2></summary>
+  <summary><h2> Sliding window </h2></summary>
 <ul>  
 
 - [Minimum Difference Between Highest and Lowest of K Scores](https://leetcode.com/problems/minimum-difference-between-highest-and-lowest-of-k-scores/description/)  
@@ -69,7 +69,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </details>
 
 <details open>
-  <summary><h2>Prefix sum</h2></summary>
+  <summary><h2> Prefix sum </h2></summary>
 <ul>  
 
 - [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero/description/)  
@@ -83,7 +83,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </details>
 
 <details open>
-  <summary><h2>Bit Manipulation</h2></summary>
+  <summary><h2> Bit Manipulation </h2></summary>
  
 <ul>  
  
@@ -98,7 +98,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </details>
 <details open>
  
-  <summary><h2>Recursion</h2></summary>
+  <summary><h2> Recursion </h2></summary>
 
 <ul>  
  
@@ -114,7 +114,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </details>
 
 <details open>
-  <summary><h2>Divide And Conquer</h2></summary>
+  <summary><h2> Divide And Conquer </h2></summary>
 <ul>  
 
 - [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays/description/?envType=problem-list-v2&envId=divide-and-conquer)
@@ -128,7 +128,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </details>
 
 <details open>
-  <summary><h2>Backtracking</h2></summary>
+  <summary><h2> Backtracking </h2></summary>
 <ul> 
 
 - [Combination Sum](https://leetcode.com/problems/combination-sum/description/?envType=problem-list-v2&envId=backtracking)
@@ -157,7 +157,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 </details>
 
 <details open>
-  <summary><h2>Linked List</h2></summary>
+  <summary><h2> Linked List </h2></summary>
 <ul>  
 
 - [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/?envType=problem-list-v2&envId=linked-list)
@@ -180,6 +180,26 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/description/?envType=problem-list-v2&envId=linked-list)
 - [Insert Greatest Common Divisors in Linked List](https://leetcode.com/problems/insert-greatest-common-divisors-in-linked-list/description/?envType=problem-list-v2&envId=linked-list)
 - [Copy List with Random Pointer](https://leetcode.com/problems/copy-list-with-random-pointer/description/?envType=problem-list-v2&envId=linked-list)
+
+</ul>
+</details>
+
+<details open>
+  <summary><h2> Queue </h2></summary>
+<ul>  
+ 
+- [Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/description/?envType=problem-list-v2&envId=queue)
+- [Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/description/?envType=problem-list-v2&envId=queue)
+- [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/description/?envType=problem-list-v2&envId=queue)
+- [Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/?envType=problem-list-v2&envId=queue)
+- [First Unique Character in a String (Hash Table)](https://leetcode.com/problems/first-unique-character-in-a-string/?envType=problem-list-v2&envId=hash-table)
+- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/description/?envType=problem-list-v2&envId=binary-tree)
+- [Number of Recent Calls](https://leetcode.com/problems/number-of-recent-calls/description/?envType=problem-list-v2&envId=queue)
+- [Reveal Cards in Increasing Order](https://leetcode.com/problems/reveal-cards-in-increasing-order/description/?envType=problem-list-v2&envId=queue)
+- [Find the Winner of the Circular Game](https://leetcode.com/problems/find-the-winner-of-the-circular-game/description/?envType=problem-list-v2&envId=queue)
+- [Design Circular Deque](https://leetcode.com/problems/design-circular-deque/description/?envType=problem-list-v2&envId=queue)
+- [Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/description/?envType=problem-list-v2&envId=queue)
+- [Count Subarrays with Fixed Bounds](https://leetcode.com/problems/count-subarrays-with-fixed-bounds/description/?envType=problem-list-v2&envId=queue)
 
 </ul>
 </details>
