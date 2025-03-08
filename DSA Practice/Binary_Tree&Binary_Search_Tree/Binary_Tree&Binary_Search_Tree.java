@@ -104,3 +104,9 @@ https://leetcode.com/problems/longest-univalue-path/description/?envType=problem
 https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree/description/?envType=problem-list-v2&envId=binary-tree
 
 https://leetcode.com/problems/path-sum-iii/description/
+
+hard
+
+https://leetcode.com/problems/serialize-and-deserialize-binary-tree/description/?envType=problem-list-v2&envId=binary-tree
+
+https://leetcode.com/problems/merge-bsts-to-create-single-bst/description/
