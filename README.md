@@ -237,6 +237,9 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Roman to Integer](https://leetcode.com/problems/roman-to-integer/description/?envType=problem-list-v2&envId=hash-table)
 - [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/?envType=problem-list-v2&envId=hash-table)
 - [Most Frequent Number Following Key in an Array](https://leetcode.com/problems/most-frequent-number-following-key-in-an-array/description/?envType=problem-list-v2&envId=hash-table)
-- 
+- [N-Repeated Element in Size 2N Array](https://leetcode.com/problems/n-repeated-element-in-size-2n-array/description/)
+- [Count Number of Pairs With Absolute Difference K](https://leetcode.com/problems/count-number-of-pairs-with-absolute-difference-k/description/)
+- [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)
+
 </ul>
 </details>
