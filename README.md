@@ -251,5 +251,10 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 -. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
 -. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
 -. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
+  -. [Count Number of Bad Pairs](https://leetcode.com/problems/count-number-of-bad-pairs/description/)
+-. [Equal Row and Column Pairs](https://leetcode.com/problems/equal-row-and-column-pairs/description/)
+-. [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/)
+-. [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
+-. [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)
 </ul>
 </details>
