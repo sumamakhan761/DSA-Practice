@@ -242,6 +242,14 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Kth Distinct String in an Array](https://leetcode.com/problems/kth-distinct-string-in-an-array/description/)
 -. [Group Anagrams](https://leetcode.com/problems/group-anagrams/description/)
 -. [Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/)
-
+-. [Majority Element II](https://leetcode.com/problems/majority-element-ii/description/)
+-. [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/description/)
+-. [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/description/)
+-. [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)
+-. [4Sum II](https://leetcode.com/problems/4sum-ii/description/)
+-. [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/description/)
+-. [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/)
+-. [Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/description/)
+-. [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/description/)
 </ul>
 </details>
