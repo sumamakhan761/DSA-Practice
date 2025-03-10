@@ -256,5 +256,11 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Unique Length-3 Palindromic Subsequences](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/)
 - [Optimal Partition of String](https://leetcode.com/problems/optimal-partition-of-string/description/)
 - [Minimum Rounds to Complete All Tasks](https://leetcode.com/problems/minimum-rounds-to-complete-all-tasks/description/)
+- [Max Points on a Line](https://leetcode.com/problems/max-points-on-a-line/description/?envType=problem-list-v2&envId=hash-table)
+- [First Missing Positive](https://leetcode.com/problems/first-missing-positive/description/?envType=problem-list-v2&envId=hash-table)
+- [Naming a Company](https://leetcode.com/problems/naming-a-company/description/?envType=problem-list-v2&envId=hash-table)
+- [Word Ladder](https://leetcode.com/problems/word-ladder/description/?envType=problem-list-v2&envId=hash-table)
+- [Substring with Concatenation of All Words](https://leetcode.com/problems/substring-with-concatenation-of-all-words/description/?envType=problem-list-v2&envId=hash-table)
+- [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/?envType=problem-list-v2&envId=hash-table)
 </ul>
 </details>
