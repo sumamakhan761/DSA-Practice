@@ -264,3 +264,20 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/description/?envType=problem-list-v2&envId=hash-table)
 </ul>
 </details>
+
+<details open>
+  <summary><h2> Binary Search </h2></summary>
+<ul>  
+ 
+- [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=binary-search)
+- [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=problem-list-v2&envId=binary-search)
+- [Missing Number](https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=binary-search)
+- [Binary Search](https://leetcode.com/problems/binary-search/description/?envType=problem-list-v2&envId=binary-search)
+- [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/?envType=problem-list-v2&envId=binary-search)
+- [Sqrt(x)](https://leetcode.com/problems/sqrtx/description/?envType=problem-list-v2&envId=binary-search)
+- [First Bad Version](https://leetcode.com/problems/first-bad-version/description/?envType=problem-list-v2&envId=binary-search)
+- [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/?envType=problem-list-v2&envId=binary-search)
+- [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=problem-list-v2&envId=binary-search)
+- 
+</ul>
+</details>
