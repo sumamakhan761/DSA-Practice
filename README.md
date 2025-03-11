@@ -268,7 +268,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 <details open>
   <summary><h2> Binary Search </h2></summary>
 <ul>  
- 
+
 - [Search Insert Position](https://leetcode.com/problems/search-insert-position/description/?envType=problem-list-v2&envId=binary-search)
 - [Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/?envType=problem-list-v2&envId=binary-search)
 - [Missing Number](https://leetcode.com/problems/missing-number/description/?envType=problem-list-v2&envId=binary-search)
@@ -278,6 +278,25 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [First Bad Version](https://leetcode.com/problems/first-bad-version/description/?envType=problem-list-v2&envId=binary-search)
 - [Kth Missing Positive Number](https://leetcode.com/problems/kth-missing-positive-number/description/?envType=problem-list-v2&envId=binary-search)
 - [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/description/?envType=problem-list-v2&envId=binary-search)
-- 
+- [Max Consecutive Ones III](https://leetcode.com/problems/max-consecutive-ones-iii/description/?envType=problem-list-v2&envId=binary-search)
+- [Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/description/?envType=problem-list-v2&envId=binary-search)
+- [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=binary-search)
+- [Peak Index in a Mountain Array](https://leetcode.com/problems/peak-index-in-a-mountain-array/description/?envType=problem-list-v2&envId=binary-search)
+- [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/?envType=problem-list-v2&envId=binary-search)
+- [Maximum Number of Integers to Choose From a Range I](https://leetcode.com/problems/maximum-number-of-integers-to-choose-from-a-range-i/?envType=problem-list-v2&envId=binary-search)
+- [Search in Rotated Sorted Array II](https://leetcode.com/problems/search-in-rotated-sorted-array-ii/description/?envType=problem-list-v2&envId=binary-search)
+- [Minimized Maximum of Products Distributed to Any Store](https://leetcode.com/problems/minimized-maximum-of-products-distributed-to-any-store/description/?envType=problem-list-v2&envId=binary-search)
+- [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=problem-list-v2&envId=binary-search)
+- [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/?envType=problem-list-v2&envId=binary-search)
+- [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/description/?envType=problem-list-v2&envId=binary-search)
+- [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/description/?envType=problem-list-v2&envId=binary-search)
+- [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/description/?envType=problem-list-v2&envId=binary-search)
+- [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/?envType=problem-list-v2&envId=binary-search)
+- [Capacity to Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/?envType=problem-list-v2&envId=binary-search)
+- [Minimum Number of Days to Make M Bouquets](https://leetcode.com/problems/minimum-number-of-days-to-make-m-bouquets/description/?envType=problem-list-v2&envId=binary-search)
+- [K-Diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/?envType=problem-list-v2&envId=binary-search)
+- [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/?envType=problem-list-v2&envId=binary-search)
+- [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/description/?envType=problem-list-v2&envId=binary-search)
+
 </ul>
 </details>
