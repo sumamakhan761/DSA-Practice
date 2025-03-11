@@ -297,6 +297,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [K-Diff Pairs in an Array](https://leetcode.com/problems/k-diff-pairs-in-an-array/description/?envType=problem-list-v2&envId=binary-search)
 - [Valid Triangle Number](https://leetcode.com/problems/valid-triangle-number/description/?envType=problem-list-v2&envId=binary-search)
 - [Maximum Frequency of an Element After Performing Operations I](https://leetcode.com/problems/maximum-frequency-of-an-element-after-performing-operations-i/description/?envType=problem-list-v2&envId=binary-search)
+- [Smallest Substring With Identical Characters 1](https://leetcode.com/problems/smallest-substring-with-identical-characters-i/description/?envType=problem-list-v2&envId=binary-search)
+- [Smallest Substring With Identical Characters 2](https://leetcode.com/problems/smallest-substring-with-identical-characters-ii/description/?envType=problem-list-v2&envId=binary-search)
 
 </ul>
 </details>
