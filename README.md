@@ -64,6 +64,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Grumpy Bookstore Owner](https://leetcode.com/problems/grumpy-bookstore-owner/description/)  
 - [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/)  
 - [Maximum Points You Can Obtain from Cards](https://leetcode.com/problems/maximum-points-you-can-obtain-from-cards/description/)  
+- [Minimum Positive Sum Subarray](https://leetcode.com/problems/minimum-positive-sum-subarray/description/?envType=problem-list-v2&envId=sliding-window)  
+- [Maximum Subarray With Equal Products](https://leetcode.com/problems/maximum-coins-from-k-consecutive-bags/description/?envType=problem-list-v2&envId=sliding-window)  
 
 </ul>
 </details>
