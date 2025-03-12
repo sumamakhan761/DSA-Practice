@@ -316,3 +316,22 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   
 </ul>
 </details>
+
+<details open>
+  <summary><h2> Binary Tree and Binary Search Tree </h2></summary>
+<ul>  
+
+- [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
+- [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/)
+- [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/)
+- [Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/)
+- [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
+- [Same Tree](https://leetcode.com/problems/same-tree/)
+- [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
+- [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
+- [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
+- [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
+- [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+
+</ul>
+</details>
