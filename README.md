@@ -304,3 +304,15 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 
 </ul>
 </details>
+
+<details open>
+  <summary><h2> KMP </h2></summary>
+<ul>  
+ 
+- [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/)
+- [Longest Happy Prefix](https://leetcode.com/problems/longest-happy-prefix/description/?envType=problem-list-v2&envId=rolling-hash)
+- [Repeated String Match](https://leetcode.com/problems/repeated-string-match/)
+- [Longest Duplicate Substring](https://leetcode.com/problems/longest-duplicate-substring/solutions/?envType=problem-list-v2&envId=rolling-hash)
+  
+</ul>
+</details>
