@@ -332,6 +332,15 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/)
 - [Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/)
 - [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/)
+- [Count Complete Tree Nodes](https://leetcode.com/problems/count-complete-tree-nodes/)
+- [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
+- [Search in a Binary Search Tree](https://leetcode.com/problems/search-in-a-binary-search-tree/)
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
+- [Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/)
+- [Minimum Distance Between BST Nodes](https://leetcode.com/problems/minimum-distance-between-bst-nodes/)
+- [Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/)
+- [Univalued Binary Tree](https://leetcode.com/problems/univalued-binary-tree/)
+- [Path Sum](https://leetcode.com/problems/path-sum/)
 
 </ul>
 </details>
