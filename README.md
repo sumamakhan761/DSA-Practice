@@ -343,6 +343,6 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Path Sum](https://leetcode.com/problems/path-sum/)
 - [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/description/?envType=problem-list-v2&envId=binary-tree)
 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/?envType=problem-list-v2&envId=binary-tree)
-- 
+- [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/?envType=problem-list-v2&envId=binary-tree)
 </ul>
 </details>
