@@ -345,5 +345,6 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/description/?envType=problem-list-v2&envId=binary-tree)
 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/?envType=problem-list-v2&envId=binary-tree)
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/?envType=problem-list-v2&envId=binary-tree)
+- [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/?envType=problem-list-v2&envId=binary-tree)
 </ul>
 </details>
