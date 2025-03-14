@@ -346,5 +346,11 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/?envType=problem-list-v2&envId=binary-tree)
 - [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/description/?envType=problem-list-v2&envId=binary-tree)
 - [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/description/?envType=problem-list-v2&envId=binary-tree)
+- [Maximum Width of Binary Tree](https://leetcode.com/problems/maximum-width-of-binary-tree/description/?envType=problem-list-v2&envId=binary-tree)
+- [Construct Binary Tree From Proorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/?envType=problem-list-v2&envId=binary-tree)
+- [Construct Binary Tree From Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/?envType=problem-list-v2&envId=binary-tree)
+- [Delete Node In A BST](https://leetcode.com/problems/delete-node-in-a-bst/description/?envType=problem-list-v2&envId=binary-tree)
+- [Delete Node In A BST](https://leetcode.com/problems/delete-node-in-a-bst/description/?envType=problem-list-v2&envId=binary-tree)
+- 
 </ul>
 </details>
