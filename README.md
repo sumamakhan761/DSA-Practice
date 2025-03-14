@@ -350,7 +350,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Construct Binary Tree From Proorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/?envType=problem-list-v2&envId=binary-tree)
 - [Construct Binary Tree From Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/description/?envType=problem-list-v2&envId=binary-tree)
 - [Delete Node In A BST](https://leetcode.com/problems/delete-node-in-a-bst/description/?envType=problem-list-v2&envId=binary-tree)
-- [Delete Node In A BST](https://leetcode.com/problems/delete-node-in-a-bst/description/?envType=problem-list-v2&envId=binary-tree)
-- 
+- [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/?envType=problem-list-v2&envId=binary-tree)
+
 </ul>
 </details>
