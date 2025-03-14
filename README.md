@@ -352,6 +352,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Delete Node In A BST](https://leetcode.com/problems/delete-node-in-a-bst/description/?envType=problem-list-v2&envId=binary-tree)
 - [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/?envType=problem-list-v2&envId=binary-tree)
 - [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/?envType=problem-list-v2&envId=binary-tree)
+- [Binary Search Tree To Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
 
 </ul>
 </details>
