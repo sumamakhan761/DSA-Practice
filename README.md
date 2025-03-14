@@ -356,14 +356,10 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Kth Smallest Element In a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst)
 - [Kth Largest Sum In A Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)
 - [Populationg Next Right Pointer In Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node)
-- [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
-- [Lowest Common Ancestor](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
-
-https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree
-
-https://leetcode.com/problems/binary-tree-right-side-view/description
-
-https://leetcode.com/problems/find-bottom-left-tree-value/description
+- [Lowest Common Ancestor Of A Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree)
+- [Lowest Common Ancestor Of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
+- [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
+- [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
 
 </ul>
 </details>
