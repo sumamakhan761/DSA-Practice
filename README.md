@@ -353,6 +353,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Flatten Binary Tree To Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/description/?envType=problem-list-v2&envId=binary-tree)
 - [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/?envType=problem-list-v2&envId=binary-tree)
 - [Binary Search Tree To Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
+- [Kth Smallest Element In a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=problem-list-v2&envId=binary-tree)
 
 </ul>
 </details>
