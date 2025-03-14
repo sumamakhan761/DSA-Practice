@@ -354,6 +354,18 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Binary Search Tree Iterator](https://leetcode.com/problems/binary-search-tree-iterator/description/?envType=problem-list-v2&envId=binary-tree)
 - [Binary Search Tree To Greater Sum Tree](https://leetcode.com/problems/binary-search-tree-to-greater-sum-tree/description/)
 - [Kth Smallest Element In a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/?envType=problem-list-v2&envId=binary-tree)
+- [Kth Largest Sum In A Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)
+- [Kth Largest Sum In A Binary Tree](https://leetcode.com/problems/kth-largest-sum-in-a-binary-tree/)
+
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/
+
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/description/?envType=problem-list-v2&envId=binary-tree
+
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/description/?envType=problem-list-v2&envId=binary-tree
+
+https://leetcode.com/problems/binary-tree-right-side-view/description/?envType=problem-list-v2&envId=binary-tree
+
+https://leetcode.com/problems/find-bottom-left-tree-value/description/?envType=problem-list-v2&envId=binary-tree
 
 </ul>
 </details>
