@@ -360,6 +360,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Lowest Common Ancestor Of A Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree)
 - [Binary Tree Right Side View](https://leetcode.com/problems/binary-tree-right-side-view)
 - [Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value)
-
+- [Convert Sorted List To Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree)
+  
 </ul>
 </details>
