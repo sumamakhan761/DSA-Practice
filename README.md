@@ -366,6 +366,6 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Maximum Level Sum Of A Binary Tree](https://leetcode.com/problems/maximum-level-sum-of-a-binary-tree)
 - [Find Duplicate Subtrees](https://leetcode.com/problems/find-duplicate-subtrees) 
 - [Sum Root To Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers)
-  
+- [Convert Bst To Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)
 </ul>
 </details>
