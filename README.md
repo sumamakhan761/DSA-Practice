@@ -369,6 +369,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Convert Bst To Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree)
 - [Path Sum 2](https://leetcode.com/problems/path-sum-ii)
 - [Populating Next Right Pointers In Each Node 2](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)
+- [Find Largest Value In Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)
 
 </ul>
 </details>
