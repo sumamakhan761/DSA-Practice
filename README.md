@@ -373,6 +373,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)
 - [Verify Preorder Serialization Of A Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)
 - [Path Sum 3](https://leetcode.com/problems/path-sum-iii)
+- [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 - 
 </ul>
 </details>
