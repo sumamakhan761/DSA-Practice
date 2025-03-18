@@ -371,6 +371,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Populating Next Right Pointers In Each Node 2](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii)
 - [Find Largest Value In Each Tree Row](https://leetcode.com/problems/find-largest-value-in-each-tree-row)
 - [Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path)
-
+- [Verify Preorder Serialization Of A Binary Tree](https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree)
+- [Path Sum 3](https://leetcode.com/problems/path-sum-iii)
+- 
 </ul>
 </details>
