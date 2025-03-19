@@ -379,6 +379,6 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Merge Bsts To Create Single](https://leetcode.com/problems/merge-bsts-to-create-single-bst)
 - [Recover A Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)
 - [Vertical Order Traversal Of A Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
-  
+- [Kth Ancestor Of A Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)
 </ul>
 </details>
