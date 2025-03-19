@@ -377,6 +377,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Maximum Sum Bst In Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree)
 - [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
 - [Merge Bsts To Create Single](https://leetcode.com/problems/merge-bsts-to-create-single-bst)
-- 
+- [Recover A Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)
+  
 </ul>
 </details>
