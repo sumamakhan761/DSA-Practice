@@ -376,6 +376,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
 - [Maximum Sum Bst In Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree)
 - [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
+- [Merge Bsts To Create Single](https://leetcode.com/problems/merge-bsts-to-create-single-bst)
 - 
 </ul>
 </details>
