@@ -378,6 +378,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Serialize And Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree)
 - [Merge Bsts To Create Single](https://leetcode.com/problems/merge-bsts-to-create-single-bst)
 - [Recover A Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal)
+- [Vertical Order Traversal Of A Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree)
   
 </ul>
 </details>
