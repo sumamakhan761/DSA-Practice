@@ -389,6 +389,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   
   - [Count Prefix And Suffix Pairs 1](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i)
   - [Largest Word In Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)
+  - [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree)
     
  </ul>
  
