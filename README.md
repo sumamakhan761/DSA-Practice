@@ -382,3 +382,11 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 - [Kth Ancestor Of A Tree Node](https://leetcode.com/problems/kth-ancestor-of-a-tree-node)
 </ul>
 </details>
+
+<details open>
+ <summary><h2> KMP </h2></summary>
+ <ul>
+  - [Count Prefix And Suffix Pairs 1](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i)
+ </ul>
+ 
+</details>
