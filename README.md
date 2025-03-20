@@ -386,7 +386,10 @@ This list contains problems of varying difficulty levels, ranging from beginner 
 <details open>
  <summary><h2> KMP </h2></summary>
  <ul>
+  
   - [Count Prefix And Suffix Pairs 1](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i)
+  - [Largest Word In Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)
+    
  </ul>
  
 </details>
