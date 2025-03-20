@@ -393,6 +393,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)
   - [Replace Words](https://leetcode.com/problems/replace-words)
   - [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers)
+  - [Palindromee Pairs](https://leetcode.com/problems/palindrome-pairs)
     
  </ul>
  
