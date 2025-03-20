@@ -391,6 +391,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Largest Word In Dictionary](https://leetcode.com/problems/longest-word-in-dictionary)
   - [Implement Trie Prefix Tree](https://leetcode.com/problems/implement-trie-prefix-tree)
   - [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words)
+  - [Replace Words](https://leetcode.com/problems/replace-words)
  </ul>
  
 </details>
