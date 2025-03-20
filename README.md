@@ -394,6 +394,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Replace Words](https://leetcode.com/problems/replace-words)
   - [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers)
   - [Palindromee Pairs](https://leetcode.com/problems/palindrome-pairs)
+  - [Word Search 2](https://leetcode.com/problems/word-search-ii)
     
  </ul>
  
