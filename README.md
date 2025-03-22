@@ -395,9 +395,17 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Lexicographical Numbers](https://leetcode.com/problems/lexicographical-numbers)
   - [Palindromee Pairs](https://leetcode.com/problems/palindrome-pairs)
   - [Word Search 2](https://leetcode.com/problems/word-search-ii)
-  - [k-th Smallest In Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/)
+  - [k-th Smallest In Lexicographical Order](https://leetcode.com/problems/k-th-smallest-in-lexicographical-order/description/)    
+ </ul>
+ 
+</details>
+
+<details open>
+ <summary><h2> Graph </h2></summary>
+ <ul>
+  
   - [Find the town judge](https://leetcode.com/problems/find-the-town-judge)
-    
+
  </ul>
  
 </details>
