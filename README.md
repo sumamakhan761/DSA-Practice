@@ -406,6 +406,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   
   - [Find The Town Judge](https://leetcode.com/problems/find-the-town-judge)
   - [Find If Path Exisxts In Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)
+  - [Find Center Of Star Graph](https://leetcode.com/problems/find-center-of-star-graph)
 
  </ul>
  
