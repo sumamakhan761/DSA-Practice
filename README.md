@@ -404,7 +404,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
  <summary><h2> Graph </h2></summary>
  <ul>
   
-  - [Find the town judge](https://leetcode.com/problems/find-the-town-judge)
+  - [Find The Town Judge](https://leetcode.com/problems/find-the-town-judge)
+  - [Find If Path Exisxts In Graph](https://leetcode.com/problems/find-if-path-exists-in-graph)
 
  </ul>
  
