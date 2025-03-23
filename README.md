@@ -410,7 +410,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) 
   - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) 
   - [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
-
+  - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+    
  </ul>
  
 </details>
