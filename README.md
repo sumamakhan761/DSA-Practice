@@ -411,6 +411,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) 
   - [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
   - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+-   [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
     
  </ul>
  
