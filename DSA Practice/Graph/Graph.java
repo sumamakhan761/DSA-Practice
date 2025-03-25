@@ -19,4 +19,11 @@ https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/
 https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/
 
 // Shortes path problem
+
 https://leetcode.com/problems/network-delay-time/
+
+https://leetcode.com/problems/network-delay-time/
+
+https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/
+
+https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/
