@@ -413,6 +413,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
   - [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
   - [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
+  - [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
     
  </ul>
  
