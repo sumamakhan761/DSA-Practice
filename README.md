@@ -415,6 +415,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
   - [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
   - [Second Minimum Time To Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/)
+  - [Minimum Time to Visit a Cell in a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/)
     
  </ul>
  
