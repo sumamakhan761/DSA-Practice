@@ -417,6 +417,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Second Minimum Time To Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/)
   - [Minimum Time to Visit a Cell in a Grid](https://leetcode.com/problems/minimum-time-to-visit-a-cell-in-a-grid/)
   - [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)
+  - -[Swim In Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
+
     
  </ul>
  
