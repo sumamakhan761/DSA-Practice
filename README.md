@@ -419,6 +419,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Minimum Cost to Make at Least One Valid Path in a Grid](https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-grid/)
   - [Swim In Rising Water](https://leetcode.com/problems/swim-in-rising-water/)
   - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)
+  - [Parh With Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
+  - [Shortest Path In Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/)
     
  </ul>
  
