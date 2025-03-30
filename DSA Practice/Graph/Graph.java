@@ -35,4 +35,6 @@ https://leetcode.com/problems/minimum-cost-to-make-at-least-one-valid-path-in-a-
 https://leetcode.com/problems/swim-in-rising-water/
 
 https://leetcode.com/problems/path-with-minimum-effort/description/
+
+https://leetcode.com/problems/path-with-maximum-probability/description/
     
