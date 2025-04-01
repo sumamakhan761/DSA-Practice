@@ -421,6 +421,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Path With Minimum Effort](https://leetcode.com/problems/path-with-minimum-effort/description/)
   - [Parh With Maximum Probability](https://leetcode.com/problems/path-with-maximum-probability/description/)
   - [Shortest Path In Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/)
+  - [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
     
  </ul>
  
