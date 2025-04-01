@@ -39,4 +39,7 @@ https://leetcode.com/problems/path-with-minimum-effort/description/
 https://leetcode.com/problems/path-with-maximum-probability/description/
 
 https://leetcode.com/problems/shortest-path-in-binary-matrix/description/
-    
+
+https://leetcode.com/problems/minimum-height-trees/
+
+https://leetcode.com/problems/loud-and-rich/description/
