@@ -410,8 +410,6 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Number of Provinces](https://leetcode.com/problems/number-of-provinces/) 
   - [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/) 
   - [Evaluate Division](https://leetcode.com/problems/evaluate-division/)
-  - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
-  - [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
   - [Network Delay Time](https://leetcode.com/problems/network-delay-time/)
   - [Number of Ways to Arrive at Destination](https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/)
   - [Second Minimum Time To Reach Destination](https://leetcode.com/problems/second-minimum-time-to-reach-destination/description/)
@@ -423,6 +421,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Shortest Path In Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/)
   - [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
   - [Loud And Rich](https://leetcode.com/problems/loud-and-rich/description/)
+  - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+  - [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
     
  </ul>
  
