@@ -421,10 +421,11 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Shortest Path In Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix/description/)
   - [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
   - [Loud And Rich](https://leetcode.com/problems/loud-and-rich/description/)
+  - [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
+  - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
   - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
   - [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
-  - [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
-    
+
  </ul>
  
 </details>
