@@ -423,6 +423,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Loud And Rich](https://leetcode.com/problems/loud-and-rich/description/)
   - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
   - [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
+  - [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
     
  </ul>
  
