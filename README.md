@@ -424,6 +424,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Reachable Nodes In Subdivided Graph](https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/)
   - [Find the City With the Smallest Number of Neighbors at a Threshold Distance](https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
   - [Coursr Schedule 4](https://leetcode.com/problems/course-schedule-iv/description/)
+  - [Count The Number Of Houses At A Certain Distance 1](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/description/)
   - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
   - [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
 
