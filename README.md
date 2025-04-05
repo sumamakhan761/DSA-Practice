@@ -428,6 +428,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Count The Number Of Houses At A Certain Distance 1](https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/description/)
   - [Minimum Cost To Convert String 1](https://leetcode.com/problems/minimum-cost-to-convert-string-i/solutions/)
   - [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
+  - [Number Of Possible Sets Of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/)
   - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
   - [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
 
