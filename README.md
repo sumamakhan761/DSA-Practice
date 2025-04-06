@@ -432,6 +432,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
   - [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/)
   - [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
+  - [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
 
  </ul>
  
