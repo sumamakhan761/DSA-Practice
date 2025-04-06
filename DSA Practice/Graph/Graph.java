@@ -40,6 +40,10 @@ https://leetcode.com/problems/path-with-maximum-probability/description/
 
 https://leetcode.com/problems/shortest-path-in-binary-matrix/description/
 
-https://leetcode.com/problems/minimum-height-trees/
+https://leetcode.com/problems/reachable-nodes-in-subdivided-graph/description/
 
-https://leetcode.com/problems/loud-and-rich/description/
+https://leetcode.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/
+
+https://leetcode.com/problems/course-schedule-iv/description/
+
+https://leetcode.com/problems/count-the-number-of-houses-at-a-certain-distance-i/description/
