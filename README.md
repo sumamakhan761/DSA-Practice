@@ -433,6 +433,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/)
   - [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
   - [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
+  - [Find All Possible Recipes From Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/)
 
  </ul>
  
