@@ -435,6 +435,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
   - [Find All Possible Recipes From Given Supplies](https://leetcode.com/problems/find-all-possible-recipes-from-given-supplies/description/)
   - [All Ancestors Of A Node In A Directed Acyclic Graph](https://leetcode.com/problems/all-ancestors-of-a-node-in-a-directed-acyclic-graph/description/)
+  - [Most Stones Removed with Same Row or Column](https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/)
 
  </ul>
  
