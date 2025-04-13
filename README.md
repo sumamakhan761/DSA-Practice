@@ -440,6 +440,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Find All People With Secret](https://leetcode.com/problems/find-all-people-with-secret/)
   - [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)
   - [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)
+  - [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)
    
  </ul>
  
