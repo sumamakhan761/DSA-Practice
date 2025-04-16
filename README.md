@@ -441,6 +441,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Minimize Malware Spread](https://leetcode.com/problems/minimize-malware-spread/)
   - [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)
   - [Clone Graph](https://leetcode.com/problems/clone-graph/)
+  - [All Paths from Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
    
  </ul>
  
