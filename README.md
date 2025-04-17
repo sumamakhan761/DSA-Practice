@@ -442,6 +442,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Possible Bipartition](https://leetcode.com/problems/possible-bipartition/description/)
   - [Clone Graph](https://leetcode.com/problems/clone-graph/)
   - [All Paths from Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
+  - [Detect Cycles In 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/)
    
  </ul>
  
