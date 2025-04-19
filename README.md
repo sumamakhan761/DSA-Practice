@@ -444,7 +444,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [All Paths from Source to Target](https://leetcode.com/problems/all-paths-from-source-to-target/)
   - [Detect Cycles In 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/)
   - [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/)
-   
+  - [Divide Nodes Into The Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/)
+    
  </ul>
  
 </details>
