@@ -445,7 +445,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Detect Cycles In 2D Grid](https://leetcode.com/problems/detect-cycles-in-2d-grid/description/)
   - [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/)
   - [Divide Nodes Into The Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/)
-    
+  - [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
  </ul>
  
 </details>
