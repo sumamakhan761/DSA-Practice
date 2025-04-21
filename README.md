@@ -446,6 +446,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Flower Planting With No Adjacent](https://leetcode.com/problems/flower-planting-with-no-adjacent/description/)
   - [Divide Nodes Into The Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/)
   - [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
+  - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
  </ul>
  
 </details>
