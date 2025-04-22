@@ -447,6 +447,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Divide Nodes Into The Maximum Number of Groups](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/)
   - [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
   - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
+  - [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
+    
  </ul>
  
 </details>
