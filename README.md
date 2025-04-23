@@ -448,7 +448,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Valid Arrangement of Pairs](https://leetcode.com/problems/valid-arrangement-of-pairs/)
   - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
   - [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
-    
+  - [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
+      
  </ul>
  
 </details>
