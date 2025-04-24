@@ -449,6 +449,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Reconstruct Itinerary](https://leetcode.com/problems/reconstruct-itinerary/)
   - [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
   - [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
+  - [Critical Connections In A Network](https://leetcode.com/problems/critical-connections-in-a-network/)
       
  </ul>
  
