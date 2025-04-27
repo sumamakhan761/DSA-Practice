@@ -432,6 +432,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
   - [Number Of Possible Sets Of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/)
   - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+  - [Min Cost To Connect All points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=graph)
   - [Build a Matrix With Conditions](https://leetcode.com/problems/build-a-matrix-with-conditions/)
   - [Sort Items by Groups Respecting Dependencies](https://leetcode.com/problems/sort-items-by-groups-respecting-dependencies/)
   - [Minimum Height Trees](https://leetcode.com/problems/minimum-height-trees/)
