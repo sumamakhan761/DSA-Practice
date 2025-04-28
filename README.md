@@ -453,6 +453,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
   - [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
   - [Critical Connections In A Network](https://leetcode.com/problems/critical-connections-in-a-network/)
+  - [Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=graph)
       
  </ul>
  
