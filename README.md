@@ -454,7 +454,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
   - [Critical Connections In A Network](https://leetcode.com/problems/critical-connections-in-a-network/)
   - [Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=graph)
-      
+  - [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/?envType=problem-list-v2&envId=graph)
+
  </ul>
  
 </details>
