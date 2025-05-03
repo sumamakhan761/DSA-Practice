@@ -456,6 +456,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=graph)
   - [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/?envType=problem-list-v2&envId=graph)
   - [Course Schedule](https://leetcode.com/problems/course-schedule/description/?envType=problem-list-v2&envId=graph)
+  - [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/description/?envType=problem-list-v2&envId=graph)
 
  </ul>
  
