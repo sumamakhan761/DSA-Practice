@@ -430,6 +430,11 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Find Minimum Time To Reach Last Room 1](https://leetcode.com/problems/find-minimum-time-to-reach-last-room-i/description/?envType=problem-list-v2&envId=graph)
   - [Minimum Cost To Convert String 1](https://leetcode.com/problems/minimum-cost-to-convert-string-i/solutions/)
   - [Design Graph With Shortest Path Calculator](https://leetcode.com/problems/design-graph-with-shortest-path-calculator/description/)
+  - [Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=graph)
+  - [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/?envType=problem-list-v2&envId=graph)
+  - [Course Schedule](https://leetcode.com/problems/course-schedule/description/?envType=problem-list-v2&envId=graph)
+  - [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/description/?envType=problem-list-v2&envId=graph)
+  - [Is Grapth Bipattite](https://leetcode.com/problems/is-graph-bipartite/description/?envType=problem-list-v2&envId=graph)
   - [Number Of Possible Sets Of Closing Branches](https://leetcode.com/problems/number-of-possible-sets-of-closing-branches/)
   - [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
   - [Min Cost To Connect All points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=graph)
@@ -453,10 +458,6 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Find Critical and Pseudo-Critical Edges in Minimum Spanning Tree](https://leetcode.com/problems/find-critical-and-pseudo-critical-edges-in-minimum-spanning-tree/)
   - [Remove Max Number of Edges to Keep Graph Fully Traversable](https://leetcode.com/problems/remove-max-number-of-edges-to-keep-graph-fully-traversable/)
   - [Critical Connections In A Network](https://leetcode.com/problems/critical-connections-in-a-network/)
-  - [Min Cost To Connect All Points](https://leetcode.com/problems/min-cost-to-connect-all-points/description/?envType=problem-list-v2&envId=graph)
-  - [Redundant Connection](https://leetcode.com/problems/redundant-connection/description/?envType=problem-list-v2&envId=graph)
-  - [Course Schedule](https://leetcode.com/problems/course-schedule/description/?envType=problem-list-v2&envId=graph)
-  - [Course Schedule 2](https://leetcode.com/problems/course-schedule-ii/description/?envType=problem-list-v2&envId=graph)
 
  </ul>
  
