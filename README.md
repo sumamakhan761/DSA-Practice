@@ -462,3 +462,11 @@ This list contains problems of varying difficulty levels, ranging from beginner 
  </ul>
  
 </details>
+
+<details open>
+ <summary><h2> Dynamic Programming </h2></summary>
+ <ul>
+  - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
+ </ul>
+ 
+</details>
