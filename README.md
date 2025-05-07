@@ -469,6 +469,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   
   - [Climbing Stairs](https://leetcode.com/problems/climbing-stairs)
   - [Fibonacci Number](https://leetcode.com/problems/fibonacci-number)
+  - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number)
     
  </ul>
  
