@@ -472,6 +472,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number)
   - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)
   - [House Robber](https://leetcode.com/problems/house-robber)
+  - [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn)
     
  </ul>
  
