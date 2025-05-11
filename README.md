@@ -473,6 +473,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs)
   - [House Robber](https://leetcode.com/problems/house-robber)
   - [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn)
+  - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
     
  </ul>
  
