@@ -475,6 +475,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Maximum Amount of Money Robot Can Earn](https://leetcode.com/problems/maximum-amount-of-money-robot-can-earn)
   - [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
   - [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
+  - [Counting Bits](https://leetcode.com/problems/counting-bits/) *(Easy)*
     
  </ul>
  
