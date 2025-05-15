@@ -477,6 +477,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
   - [Counting Bits](https://leetcode.com/problems/counting-bits/)
   - [Divisor Game](https://leetcode.com/problems/divisor-game/)
+  - [Ugly Number](https://leetcode.com/problems/ugly-number/description/)
     
  </ul>
  
