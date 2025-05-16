@@ -478,6 +478,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Counting Bits](https://leetcode.com/problems/counting-bits/)
   - [Divisor Game](https://leetcode.com/problems/divisor-game/)
   - [Ugly Number](https://leetcode.com/problems/ugly-number/description/)
+  - [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
     
  </ul>
  
