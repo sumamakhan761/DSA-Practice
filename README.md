@@ -479,6 +479,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Divisor Game](https://leetcode.com/problems/divisor-game/)
   - [Ugly Number](https://leetcode.com/problems/ugly-number/description/)
   - [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
+  - [House Robber II](https://leetcode.com/problems/house-robber-ii/)
     
  </ul>
  
