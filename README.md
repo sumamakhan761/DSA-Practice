@@ -480,6 +480,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Ugly Number](https://leetcode.com/problems/ugly-number/description/)
   - [Ugly Number II](https://leetcode.com/problems/ugly-number-ii/)
   - [House Robber II](https://leetcode.com/problems/house-robber-ii/)
+  - [Integer Break](https://leetcode.com/problems/integer-break/)
   - [House Robber III](https://leetcode.com/problems/house-robber-iii/)
     
  </ul>
