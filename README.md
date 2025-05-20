@@ -482,6 +482,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [House Robber II](https://leetcode.com/problems/house-robber-ii/)
   - [Integer Break](https://leetcode.com/problems/integer-break/)
   - [House Robber III](https://leetcode.com/problems/house-robber-iii/)
+  - [Frog Jump](https://leetcode.com/problems/frog-jump/)
     
  </ul>
  
