@@ -483,6 +483,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Integer Break](https://leetcode.com/problems/integer-break/)
   - [House Robber III](https://leetcode.com/problems/house-robber-iii/)
   - [Frog Jump](https://leetcode.com/problems/frog-jump/)
+  - [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
     
  </ul>
  
