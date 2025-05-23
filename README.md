@@ -485,6 +485,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Frog Jump](https://leetcode.com/problems/frog-jump/)
   - [Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/)
   - [Coin Change II](https://leetcode.com/problems/coin-change-ii/)
+  - [Word Break](https://leetcode.com/problems/word-break/)
  </ul>
  
 </details>
