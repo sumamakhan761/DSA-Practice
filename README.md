@@ -488,6 +488,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Word Break](https://leetcode.com/problems/word-break/)
   - [Word Break II](https://leetcode.com/problems/word-break-ii/)
   - [Target Sum](https://leetcode.com/problems/target-sum/)
+  - [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
     
  </ul>
  
