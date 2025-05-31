@@ -491,6 +491,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Perfect Squares](https://leetcode.com/problems/perfect-squares/)
   - [Interleaving String](https://leetcode.com/problems/interleaving-string/)
   - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
+  - [Unique Paths](https://leetcode.com/problems/unique-paths/)
     
  </ul>
  
