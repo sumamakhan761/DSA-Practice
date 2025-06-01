@@ -492,6 +492,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Interleaving String](https://leetcode.com/problems/interleaving-string/)
   - [Minimum Number of Refueling Stops](https://leetcode.com/problems/minimum-number-of-refueling-stops/)
   - [Unique Paths](https://leetcode.com/problems/unique-paths/)
+  - [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/)
     
  </ul>
  
