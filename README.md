@@ -496,6 +496,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Triangle](https://leetcode.com/problems/triangle/)
   - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
   - [Maximal Square](https://leetcode.com/problems/maximal-square/)
+  - [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
     
  </ul>
  
