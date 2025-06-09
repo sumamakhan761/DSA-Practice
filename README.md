@@ -497,7 +497,8 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/)
   - [Maximal Square](https://leetcode.com/problems/maximal-square/)
   - [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
-  - [Dungeon Game](https://leetcode.com/problems/dungeon-game/) 
+  - [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
+  - [Is Subsequence](https://leetcode.com/problems/is-subsequence)
    
  </ul>
  
