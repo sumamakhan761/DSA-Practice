@@ -499,6 +499,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Maximal Rectangle](https://leetcode.com/problems/maximal-rectangle/)
   - [Dungeon Game](https://leetcode.com/problems/dungeon-game/)
   - [Is Subsequence](https://leetcode.com/problems/is-subsequence)
+  - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
    
  </ul>
  
