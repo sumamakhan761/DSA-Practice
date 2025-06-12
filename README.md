@@ -501,6 +501,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Is Subsequence](https://leetcode.com/problems/is-subsequence)
   - [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence)
   - [Edit Distance](https://leetcode.com/problems/edit-distance)
+  - [Longest Subsequence with Decreasing Adjacent Difference](https://leetcode.com/problems/longest-subsequence-with-decreasing-adjacent-difference)
    
  </ul>
  
