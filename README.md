@@ -505,6 +505,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/)
   - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
   - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
+  - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
    
  </ul>
  
