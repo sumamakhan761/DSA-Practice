@@ -506,6 +506,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Distinct Subsequences](https://leetcode.com/problems/distinct-subsequences/)
   - [Regular Expression Matching](https://leetcode.com/problems/regular-expression-matching/)
   - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
+  - [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array)
    
  </ul>
  
