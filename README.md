@@ -508,6 +508,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence)
   - [Minimum Number of Removals to Make Mountain Array](https://leetcode.com/problems/minimum-number-of-removals-to-make-mountain-array)
   - [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain)
+  - [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
    
  </ul>
  
