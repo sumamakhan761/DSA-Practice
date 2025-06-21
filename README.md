@@ -510,6 +510,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Maximum Length of Pair Chain](https://leetcode.com/problems/maximum-length-of-pair-chain)
   - [Largest Divisible Subset](https://leetcode.com/problems/largest-divisible-subset/)
   - [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
+  - [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
    
  </ul>
  
