@@ -512,6 +512,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Wiggle Subsequence](https://leetcode.com/problems/wiggle-subsequence/)
   - [Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/)
   - [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
+  - [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
    
  </ul>
  
