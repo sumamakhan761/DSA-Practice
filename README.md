@@ -514,6 +514,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Arithmetic Slices II - Subsequence](https://leetcode.com/problems/arithmetic-slices-ii-subsequence/)
   - [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
   - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
+  - [Coin Change](https://leetcode.com/problems/coin-change)
    
  </ul>
  
