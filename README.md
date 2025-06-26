@@ -515,6 +515,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Russian Doll Envelopes](https://leetcode.com/problems/russian-doll-envelopes/)
   - [Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum)
   - [Coin Change](https://leetcode.com/problems/coin-change)
+  - [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock)
    
  </ul>
  
