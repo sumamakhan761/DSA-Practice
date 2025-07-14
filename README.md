@@ -522,6 +522,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee)
   - [Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii)
   - [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)
+  - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
    
  </ul>
  
