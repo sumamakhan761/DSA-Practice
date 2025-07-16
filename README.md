@@ -524,6 +524,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv)
   - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
   - [Word Break II](https://leetcode.com/problems/word-break-ii)
+  - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
    
  </ul>
  
