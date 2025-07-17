@@ -525,6 +525,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning)
   - [Word Break II](https://leetcode.com/problems/word-break-ii)
   - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
+  - [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
    
  </ul>
  
