@@ -526,6 +526,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Word Break II](https://leetcode.com/problems/word-break-ii)
   - [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
   - [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
+  - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
    
  </ul>
  
