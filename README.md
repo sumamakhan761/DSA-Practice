@@ -528,6 +528,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Palindrome Partitioning II](https://leetcode.com/problems/palindrome-partitioning-ii/)
   - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
   - [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree)
+  - [Sum of Good Subsequences](https://leetcode.com/problems/sum-of-good-subsequences)
    
  </ul>
  
