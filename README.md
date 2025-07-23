@@ -529,6 +529,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum)
   - [Maximum Sum BST in Binary Tree](https://leetcode.com/problems/maximum-sum-bst-in-binary-tree)
   - [Sum of Good Subsequences](https://leetcode.com/problems/sum-of-good-subsequences)
+  - [Count Paths With the Given XOR Value](https://leetcode.com/problems/count-paths-with-the-given-xor-value)
    
  </ul>
  
