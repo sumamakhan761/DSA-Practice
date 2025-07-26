@@ -531,6 +531,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Sum of Good Subsequences](https://leetcode.com/problems/sum-of-good-subsequences)
   - [Count Paths With the Given XOR Value](https://leetcode.com/problems/count-paths-with-the-given-xor-value)
   - [01 Matrix](https://leetcode.com/problems/01-matrix)
+  - [Burst Balloons](https://leetcode.com/problems/burst-balloons)
    
  </ul>
  
