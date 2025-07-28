@@ -532,6 +532,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Count Paths With the Given XOR Value](https://leetcode.com/problems/count-paths-with-the-given-xor-value)
   - [01 Matrix](https://leetcode.com/problems/01-matrix)
   - [Burst Balloons](https://leetcode.com/problems/burst-balloons)
+  - [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick)
    
  </ul>
  
