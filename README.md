@@ -534,6 +534,7 @@ This list contains problems of varying difficulty levels, ranging from beginner 
   - [Burst Balloons](https://leetcode.com/problems/burst-balloons)
   - [Minimum Cost to Cut a Stick](https://leetcode.com/problems/minimum-cost-to-cut-a-stick)
   - [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum)
+  - - [Paint House IV](https://leetcode.com/problems/paint-house-iv)
    
  </ul>
  
